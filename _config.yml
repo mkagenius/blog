@@ -1,11 +1,12 @@
 # Site settings
-title: Blog about stuff
+title: Draw+Code+Think!
 email: mkagenius@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Awesome blog is here bro! Get ready to be mind = blow!
+  Awesome blog is here bro! 
+  Get ready to be mind = blow!
 baseurl: "/blog/" # the subpath of your site, e.g. /blog/
 url: "http://mkagenius.github.io" # the base hostname & protocol for your site
-twitter_username: jekyllrb
+twitter_username: mkagenius
 github_username:  mkagenius
 
 # Build settings
